@@ -1,183 +1,207 @@
 <div align="center">
 
-# ✨ Panthini Patel
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,25:1e3a8a,60:2563eb,100:60a5fa&height=330&section=header&text=PANTHINI%20PATEL&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%" />
 
-### Aspiring Data Scientist & ML Engineer
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Building+at+the+intersection+of+AI+and+real-world+systems+🚀;Data+Science+Intern+@+Oasis+Infobytes+🤖;Turning+data+into+insights+and+ideas+into+solutions+📊;Always+learning.+Always+building.+⚡" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=1000&lines=Transforming+Data+into+Intelligent+Systems...;Machine+Learning+%7C+Predictive+Analytics+%7C+Dashboards;Building+at+the+Intersection+of+AI+and+Real+World+Problems;Data+Science+Intern+@+Oasis+Infobytes;Computer+Science+Undergraduate+@+CHARUSAT;Always+Learning+%7C+Always+Building+%7C+Always+Curious" />
 
-<p>
-📍 Ahmedabad, Gujarat &nbsp; • &nbsp; 🎓 CHARUSAT CSE'28 &nbsp; • &nbsp; 🚀 Data Science Intern
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/panthinipatel5">
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=60a5fa"/>
+</a>
+
+<a href="https://www.linkedin.com/in/panthini-patel9abba3317">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=60a5fa"/>
+</a>
+
+<a href="mailto:panthinipatel5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=60a5fa"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=panthinipatel5&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# 🌸 WHO AM I?
+<img src="https://user-images.githubusercontent.com/74038190/212750487-2e5fdb1d-f4b1-4d0b-8d4d-f6d5d6d6a4aa.gif" width="100%">
 
-```python
-class PanthiniPatel:
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> WHO AM I ?!
 
-    def __init__(self):
+<div align="center">
 
-        self.role = "Computer Science Undergraduate"
+<table>
+<tr>
 
-        self.university = "CHARUSAT"
+<td width="40%" align="center">
 
-        self.current_work = "Data Science Intern @ Oasis Infobytes"
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
-        self.focus = [
-            "Machine Learning",
-            "Data Science",
-            "Predictive Analytics",
-            "Interactive Dashboards",
-            "Web Systems"
-        ]
+<br>
 
-        self.currently_learning = [
-            "TensorFlow",
-            "Deep Learning",
-            "ETL Pipelines",
-            "Power BI",
-            "REST APIs"
-        ]
+<img src="https://img.shields.io/badge/🎓%20CHARUSAT-2563eb?style=for-the-badge"/>
 
-        self.goal = """
-        Build intelligent systems that solve
-        real-world problems at scale
-        """
-```
+<br>
+
+<img src="https://img.shields.io/badge/B.Tech%20Computer%20Science-1e3a8a?style=for-the-badge"/>
+
+</td>
+
+<td width="60%">
+
+### Hi, I'm Panthini 👋
+
+Computer Science undergraduate passionate about turning raw data into impactful systems.
+
+Currently working as a **Data Science Intern at Oasis Infobytes**, building ML models, preprocessing pipelines, and interactive dashboards.
+
+I enjoy combining:
+
+🧠 Machine Learning  
+📊 Analytics  
+🌐 Full-Stack Systems  
+⚡ Problem Solving  
+🚀 Real-World Applications  
+
+while continuously exploring intelligent technologies.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# ⚔ TECH ARSENAL
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=2500&color=60A5FA&center=true&width=800&lines=Languages+%7C+Databases+%7C+ML+%7C+Web+%7C+AI+%7C+Developer+Tools"/>
+
+</div>
+
+<br>
+
+| Category | Stack |
+|:---|:---|
+| Languages | <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,html,css"/> |
+| ML / Data Science | <img src="https://skillicons.dev/icons?i=python"/> Pandas • NumPy • Matplotlib • Scikit-Learn • EDA |
+| Databases | <img src="https://skillicons.dev/icons?i=mysql,mongodb"/> |
+| Web Development | <img src="https://skillicons.dev/icons?i=html,css,php,javascript"/> |
+| Developer Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode"/> |
+| Currently Learning | TensorFlow • ETL Pipelines • Power BI • REST APIs |
 
 ---
 
-# ⚡ TECH ARSENAL
-
-### 👩‍💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### 🤖 ML & Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
-
-### 🌐 Web Development
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-
-### 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/Colab-yellow?style=for-the-badge&logo=googlecolab)
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212750487-2e5fdb1d-f4b1-4d0b-8d4d-f6d5d6d6a4aa.gif" width="100%">
 
 # 🚀 FEATURED PROJECTS
 
 | Project | Description |
-|----------|-------------|
-| 🏠 RentVerse | Full-stack rental property management platform with role-based architecture |
-| 📊 Unemployment Analysis Dashboard | COVID-19 impact analysis with ML forecasting |
-| 🚗 Car Price Prediction | Intelligent used car price estimation using Machine Learning |
-| 🌸 Iris Classification Dashboard | Interactive flower classification with EDA & ML |
-| 🚫 Spam Detection | NLP-powered email classification system |
-| 📈 Sales Prediction Dashboard | Advertising-driven sales forecasting |
+|:---|:---|
+| 🏠 RentVerse | Full-stack rental platform supporting Admin, Owner, Tenant and Technician workflows |
+| 💰 Personal Finance Management System | C++ project managing expenses, savings and budgeting |
+| 🔐 User Authentication System | Secure authentication system with validation and encryption |
+| 🌸 Iris Classification Dashboard | Interactive ML dashboard using Streamlit |
+| 📊 Unemployment Analysis Dashboard | Covid-19 unemployment analytics and prediction |
 
 ---
 
 # 💼 EXPERIENCE
 
-### 🤖 Data Science Intern — Oasis Infobytes
+<div align="center">
 
-📅 May 2026 – Present
+<img src="https://img.shields.io/badge/Oasis%20Infobytes-Data%20Science%20Intern-2563eb?style=for-the-badge"/>
 
-✔ Building supervised ML models for predictive analytics  
+</div>
 
-✔ Engineering preprocessing pipelines and feature workflows  
+### Data Science Intern — Oasis Infobytes
 
-✔ Creating interactive dashboards for data storytelling  
-
-✔ Applying regression, classification, and EDA techniques  
+✔ Built supervised ML models  
+✔ Created preprocessing pipelines  
+✔ Worked with EDA and predictive analytics  
+✔ Designed interactive dashboards  
 
 ---
+
+# 📜 CERTIFICATIONS
+
+🏆 IBM — Data Analysis with Python  
+🏆 IBM — Python Project for Data Science  
+🏆 IBM — Tools for Data Science  
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750487-2e5fdb1d-f4b1-4d0b-8d4d-f6d5d6d6a4aa.gif" width="100%">
 
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=panthinipatel5&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=panthinipatel5&show_icons=true&theme=tokyonight&count_private=true"/>
 
-![Streak](https://streak-stats.demolab.com?user=panthinipatel5&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panthinipatel5&layout=compact&theme=tokyonight"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panthinipatel5&layout=compact&theme=radical)
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=panthinipatel5&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=panthinipatel5&theme=react-dark"/>
 
 </div>
 
 ---
 
-# 🎯 CURRENT FOCUS
+# 🌍 BEYOND THE TERMINAL
 
-⚡ Production ML Systems  
-
-⚡ Advanced Machine Learning  
-
-⚡ Data Pipelines & ETL  
-
-⚡ Dashboard Engineering  
-
-⚡ Strengthening DSA Foundations  
+🎵 Music lover  
+📷 Brown belt in Karate 
+🚴 Cycling  
+☕ Coffee + Coding  
+📚 Continuous learner  
 
 ---
 
-# 🌱 BEYOND CODE
-
-📷 Photography & Visual Storytelling  
-
-☕ Coffee + Code + Creativity  
-
-🎨 Designing and building projects  
-
-🚀 Learning something new every day  
-
----
-
-# 🤝 LET'S CONNECT
+# 🤝 ESTABLISH CONNECTION
 
 <div align="center">
 
-<a href="https://linkedin.com/in/panthini-patel9abba3317">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:panthinipatel5@gmail.com">
+<img src="https://img.shields.io/badge/Email-Connect-blue?style=for-the-badge"/>
 </a>
 
-<a href="mailto:panthinipatel5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<a href="https://www.linkedin.com/in/panthini-patel9abba3317">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/panthinipatel5">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ✨ “Turning data into intelligent solutions through code.”
-
-![](https://komarev.com/ghpvc/?username=panthinipatel5&style=for-the-badge&color=ff69b4)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:0f172a&height=120&section=footer&text=Code.+Build.+Learn.+Repeat.&fontColor=ffffff"/>
 
 </div>
